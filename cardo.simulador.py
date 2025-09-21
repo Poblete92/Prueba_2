@@ -24,7 +24,7 @@ def obtener_cartas_distintas():
 
 # Iniciar el juego
 def iniciar_partida():
-    print("🃏 Bienvenido a Cardo 🃏")
+    print(" Bienvenido a Cardo ")
     jugador1 = input("Nombre del Jugador 1: ")
     jugador2 = input("Nombre del Jugador 2: ")
     
